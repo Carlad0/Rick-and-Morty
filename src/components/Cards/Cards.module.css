@@ -1,0 +1,10 @@
+.divCards {
+    background-color: red;
+    width: 100%;
+    justify-content:space-evenly;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content:space-around;
+    gap: 10px;
+}

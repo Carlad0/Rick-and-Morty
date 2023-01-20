@@ -1,0 +1,13 @@
+.divCard {
+    display:inline-flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    width: fit-content;
+    background-color: cornflowerblue;
+    padding: 1px;
+}
+
+.divCard:hover{
+    background-color: aliceblue;
+}
+
